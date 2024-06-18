@@ -1,2 +1,2 @@
-# randomize_algorithm_probability_analysis
-Algorithm implementations for Randomise Algorithm and Probability Analysis course at University of Bonn
+# Randomize Algorithm Probability Analysis
+Algorithm implementations for Randomise Algorithm and Probability Analysis course at the University of Bonn
